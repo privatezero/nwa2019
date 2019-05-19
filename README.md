@@ -1,13 +1,11 @@
-# Beyond Pressing Play
 
-## Andrew Weaver and Libby S. Hopfauf
 
-## Northwest Archivists Annual Meeting 2018
+## Northwest Archivists Annual Meeting 2019
 
 
 ### Built in [reveal.js](https://github.com/hakimel/reveal.js/). To view, open index.html in a web browser.
 
-Currently viewable online at [http://pugetsoundandvision.github.io/nwa2019/](http://privatezero.github.io/nwa2018/)
+Currently viewable online at [http://pugetsoundandvision.github.io/nwa2019/](http://privatezero.github.io/nwa2019/)
 
 For reveal.js license see LICENSE. Presentation content is licensed under the following Creative Commons license:
 
