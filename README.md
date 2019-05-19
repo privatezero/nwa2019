@@ -7,7 +7,7 @@
 
 ### Built in [reveal.js](https://github.com/hakimel/reveal.js/). To view, open index.html in a web browser.
 
-Currently viewable online at [http://privatezero.github.io/nwa2018/](http://privatezero.github.io/nwa2018/)
+Currently viewable online at [http://pugetsoundandvision.github.io/nwa2019/](http://privatezero.github.io/nwa2018/)
 
 For reveal.js license see LICENSE. Presentation content is licensed under the following Creative Commons license:
 
